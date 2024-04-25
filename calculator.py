@@ -6,7 +6,7 @@ import tkinter as tk
 #Making GUI down here,  just testingc and learning
 
 root = tk.Tk()
-root.title("Calculator")
+root.title("Calculators")
 
 entry = tk.Entry(root)
 entry.pack()

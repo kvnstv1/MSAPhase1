@@ -3,7 +3,7 @@ import tkinter as tk
 
 
 
-#Making GUI down here,  just testingc and learning
+#Making GUI down here,  just testing and learning
 
 root = tk.Tk()
 root.title("Calculators")

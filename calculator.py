@@ -3,7 +3,7 @@ import tkinter as tk
 
 
 
-#Making GUI down here,  just testing fand learning
+#Making GUI down hefre,  just testing fand learning
 
 root = tk.Tk()
 root.title("Calculators")

@@ -10,7 +10,7 @@ dataset = pd.read_csv("C:/Users/Dell G15/Desktop/[Semester 2]/MSAPhase1/foodPric
 
 pd.options.display.max_columns = None
 print(dataset.shape)
-#print(dataset.head())
+#print(datas et.head())
 
 dataset = dataset.drop('Group', axis =1)
 dataset = dataset.drop('Subject',axis=1)
